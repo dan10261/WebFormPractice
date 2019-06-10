@@ -1,0 +1,32 @@
+﻿<Cities>
+  <City>
+    <CityId>10</CityId>
+    <CityName>Fairfax</CityName>
+    <CountryId>100</CountryId>
+  </City>
+  <City>
+    <CityId>11</CityId>
+    <CityName>Arlignton</CityName>
+    <CountryId>100</CountryId>
+  </City>
+  <City>
+    <CityId>12</CityId>
+    <CityName>Alexandria</CityName>
+    <CountryId>100</CountryId>
+  </City>
+  <City>
+    <CityId>13</CityId>
+    <CityName>Hubei</CityName>
+    <CountryId>104</CountryId>
+  </City>
+  <City>
+    <CityId>14</CityId>
+    <CityName>Hunan</CityName>
+    <CountryId>104</CountryId>
+  </City>
+  <City>
+    <CityId>15</CityId>
+    <CityName>Beijing</CityName>
+    <CountryId>104</CountryId>
+  </City>
+</Cities>

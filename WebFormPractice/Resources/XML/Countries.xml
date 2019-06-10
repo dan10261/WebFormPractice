@@ -1,0 +1,32 @@
+﻿<Countries>
+  <Country>
+    <CountryId>100</CountryId>
+    <CountryName>United State</CountryName>
+    <ContinentId>3</ContinentId>
+  </Country>
+  <Country>
+    <CountryId>101</CountryId>
+    <CountryName>United Kingdom</CountryName>
+    <ContinentId>2</ContinentId>
+  </Country>
+  <Country>
+    <CountryId>102</CountryId>
+    <CountryName>India</CountryName>
+    <ContinentId>1</ContinentId>
+  </Country>
+  <Country>
+    <CountryId>103</CountryId>
+    <CountryName>Korea</CountryName>
+    <ContinentId>1</ContinentId>
+  </Country>
+  <Country>
+    <CountryId>104</CountryId>
+    <CountryName>China</CountryName>
+    <ContinentId>1</ContinentId>
+  </Country>
+  <Country>
+    <CountryId>105</CountryId>
+    <CountryName>Japan</CountryName>
+    <ContinentId>1</ContinentId>
+  </Country>
+</Countries>

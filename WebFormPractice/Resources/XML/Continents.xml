@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Continents>
+  <Continent>
+    <ContinentId>1</ContinentId>
+    <ContinentName>Asia</ContinentName>
+  </Continent>
+  <Continent>
+    <ContinentId>2</ContinentId>
+    <ContinentName>Europe</ContinentName>
+  </Continent>
+  <Continent>
+    <ContinentId>3</ContinentId>
+    <ContinentName>Northen America</ContinentName>
+  </Continent>
+</Continents>
